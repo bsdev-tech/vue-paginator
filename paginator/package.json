@@ -5,14 +5,13 @@
     "main": "index.js",
     "dependencies": {
         "vue": "^2.0.0",
-        "vue-resource": "^1.0.3"
     },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/ashleygwilliams/my_package.git"
+      "url": "https://github.com/bsdev-tech/vue-paginator"
     },
     "keywords": [
         "pagination",
@@ -23,10 +22,10 @@
         "fast pagination",
         "eazy to use pagination",
     ],
-    "author": "Isaiah Pius",
+    "author": "Isaiah Pius <isaiahtech1@gmail.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/ashleygwilliams/my_package/issues"
+      "url": "https://github.com/bsdev-tech/vue-paginator/issues"
     },
-    "homepage": "https://github.com/ashleygwilliams/my_package"
+    "homepage": "https://github.com/bsdev-tech/vue-paginator"
   }
